@@ -16,6 +16,5 @@ Hi there, I'm Mohit! 👋<br><br>I am a B.Tech student specializing in Artificia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohit2814v&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
