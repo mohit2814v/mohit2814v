@@ -11,7 +11,7 @@ Hi there, I'm Mohit! 👋<br><br>I am a B.Tech student specializing in Artificia
 ![](https://streak-stats.demolab.com/?user=mohit2814v&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohit2814v&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# PacMan Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
